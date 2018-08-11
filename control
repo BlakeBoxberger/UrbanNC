@@ -1,0 +1,9 @@
+Package: com.neinzedd9.urbannc
+Name: UrbanNC
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Replaces "No Older Notifications" text with the Urban Dictionary Word of the Day
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
